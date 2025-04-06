@@ -1,0 +1,100 @@
+Original:
+tom is awake.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> tom è sveglio
+----------------------------------------
+Original:
+i just did it.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> la l'ho appena fatto
+----------------------------------------
+Original:
+tom is brilliant.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> tom è brillante
+----------------------------------------
+Original:
+allow me to help.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> continua di aiutare
+----------------------------------------
+Original:
+we heard tom.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> sentito tom
+----------------------------------------
+Original:
+don't waste my time.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> non non il mio tempo
+----------------------------------------
+Original:
+you were sick.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> eri malato
+----------------------------------------
+Original:
+tom plays piano.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> tom tom il piano
+----------------------------------------
+Original:
+i'm resting now.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> sto fame adesso
+----------------------------------------
+Original:
+just say yes.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> e solo di sì
+----------------------------------------
+Original:
+ask my friends.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> chiedete i miei amiche
+----------------------------------------
+Original:
+you'll die in jail.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> morirete in prigione
+----------------------------------------
+Original:
+we speak french.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> noi vogliamo in francese
+----------------------------------------
+Original:
+how can you lose?
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> come si può perdere
+----------------------------------------
+Original:
+please try one.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> provane uno per basta
+----------------------------------------
+Original:
+i know that.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> lo conosco
+----------------------------------------
+Original:
+i know tom likes it.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> so lo so a tom
+----------------------------------------
+Original:
+give me an apple.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> dia una mela
+----------------------------------------
+Original:
+excuse the mess.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> ecco per il casino
+----------------------------------------
+Original:
+tom won't miss you.
+Predicted:
+<PAD> <PAD> <PAD> <PAD> <PAD> <PAD> non non a tom
+----------------------------------------

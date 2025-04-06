@@ -1,0 +1,19 @@
+artifact_path: BidLSTM_model_200
+flavors:
+  keras:
+    data: data
+    keras_backend: tensorflow
+    keras_version: 3.8.0
+    save_exported_model: false
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.keras
+    python_version: 3.11.11
+mlflow_version: 2.21.3
+model_size_bytes: 17010603
+model_uuid: 89fefceda3fb45a5854a86611f7a004f
+prompts: null
+run_id: 9503385187694ef4a6375f3d39a71fbb
+utc_time_created: '2025-04-06 17:18:31.133123'
