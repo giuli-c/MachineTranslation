@@ -13,9 +13,9 @@ __pycache__/
 *.swp
 
 # Ma conserva solo i file importanti della run selezionata
-!mlruns/9503385187694ef4a6375f3d39*/meta.yaml
-!mlruns/9503385187694ef4a6375f3d39*/params
-!mlruns/9503385187694ef4a6375f3d39*/metrics
-!mlruns/9503385187694ef4a6375f3d39*/tags
-!mlruns/9503385187694ef4a6375f3d39*/run-info
-!mlruns/9503385187694ef4a6375f3d39*/artifacts/**/translation_output*.txt
+!mlruns\479345570290482522\9503385187694ef4a6375f3d39a71fbb*/meta.yaml
+!mlruns\479345570290482522\9503385187694ef4a6375f3d39a71fbb*/params
+!mlruns\479345570290482522\9503385187694ef4a6375f3d39a71fbb*/metrics
+!mlruns\479345570290482522\9503385187694ef4a6375f3d39a71fbb*/tags
+!mlruns\479345570290482522\9503385187694ef4a6375f3d39a71fbb*/run-info
+!mlruns\479345570290482522\9503385187694ef4a6375f3d39a71fbb*/artifacts/**/translation_output*.txt
